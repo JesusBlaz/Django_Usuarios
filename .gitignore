@@ -1,0 +1,6 @@
+#Secret key
+usuarios/secret.json
+#Entorno virtual
+venv
+#pycharm
+.idea
